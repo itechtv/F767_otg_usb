@@ -25,7 +25,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+// новый комментарий
 #include "usbh_platform.h"
 /* USER CODE END Includes */
 
